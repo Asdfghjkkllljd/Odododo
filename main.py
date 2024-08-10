@@ -1,10 +1,10 @@
-TOKEN = "7370670461:AAHErQMcD3JbYutzO4ZVS04QEtjwUK74Z-M" # Токен бота
-CRYPTOPAY_TOKEN = "232521:AAIzPUpZmHnXMzkscD8WjqQqA4CjvbKHRqk" # Токен CryptoPay
-CHANNEL_ID = -1002108282328 # ID Канала где ставки
-LOGS_ID = -1002126931020 # ID Канала где оплаты
-BET_URL = "http://t.me/send?start=IVcCJxWbejmy" # Ссылка на счет CryptoBot
-CASINO_NAME = "TestCasino" # Название казино
-ADMIN_ID = 605418679 # ID Админа
+TOKEN = "7429518608:AAFMU2R_CyyLqPhWl2LJTWxTQVPU1DhSppk" # Токен бота
+CRYPTOPAY_TOKEN = "251801:AAaOA42R6B4OjqU4ciwBt2KRjmAHfyPx6mY" # Токен CryptoPay
+CHANNEL_ID = -1002243436081 # ID Канала где ставки
+LOGS_ID = -1002226990800 # ID Канала где оплаты
+BET_URL = "t.me/send?start=IVpAqLJ8Pztg" # Ссылка на счет CryptoBot
+CASINO_NAME = "Extreme Casino" # Название казино
+ADMIN_ID = 5846969551 # ID Админа
 
 
 
